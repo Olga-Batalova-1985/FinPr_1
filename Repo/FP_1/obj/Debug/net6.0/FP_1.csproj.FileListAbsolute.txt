@@ -1,0 +1,15 @@
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\bin\Debug\net6.0\FP_1.exe
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\bin\Debug\net6.0\FP_1.deps.json
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\bin\Debug\net6.0\FP_1.runtimeconfig.json
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\bin\Debug\net6.0\FP_1.dll
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\bin\Debug\net6.0\FP_1.pdb
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\obj\Debug\net6.0\FP_1.csproj.AssemblyReference.cache
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\obj\Debug\net6.0\FP_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\obj\Debug\net6.0\FP_1.AssemblyInfoInputs.cache
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\obj\Debug\net6.0\FP_1.AssemblyInfo.cs
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\obj\Debug\net6.0\FP_1.csproj.CoreCompileInputs.cache
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\obj\Debug\net6.0\FP_1.dll
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\obj\Debug\net6.0\refint\FP_1.dll
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\obj\Debug\net6.0\FP_1.pdb
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\obj\Debug\net6.0\FP_1.genruntimeconfig.cache
+E:\_Olga\Работа\GeekBrains\FinPr\Repo\FP_1\obj\Debug\net6.0\ref\FP_1.dll
